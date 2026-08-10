@@ -1,25 +1,33 @@
-# Hi, I'm Abhinand kp 👋
+Hi, I’m Abhinand KP
 
-## Data Analyst
+B.Com Graduate | Aspiring Data Analyst | SQL | Python | Excel | Power BI | Tableau
 
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy building dashboards, analyzing datasets, and developing machine learning models.
+I’m passionate about transforming raw data into meaningful business insights through data analysis, visualization, and machine learning.
 
-### 🛠️ Skills
-- SQL
-- Python
-- Excel
-- Power BI
-- Tableau
-- Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
+Skills
 
-### 📂 Featured Projects
-- 📊 Excel Dashboard
-- 📈 Power BI Dashboard
-- 📉 Tableau Dashboard
-- 🤖 Machine Learning Project
+* SQL
+* Python (Pandas, NumPy, Scikit-learn)
+* Microsoft Excel
+* Power BI
+* Tableau
+* Data Cleaning
+* EDA
+* Dashboard Development
+* Machine Learning
 
-### 📫 Connect with Me
-- www.linkedin.com/in/abhi-abhinand-kp
+Featured projects
+
+* Diabetes prediction system (Machine learning)
+* E-commerce sales dashboard (Excel)
+* HR analytics dashboard (Power BI)
+* Adidas US sales dashboard (Tableau)
+
+Career objective
+
+Seeking opportunities as a Data Analyst / Business Analyst / Power BI Analyst where I can apply analytical skills to solve business problems and support data-driven decision-making.
+
+Connect with me
+
+* LinkedIn: www.linkedin.com/in/abhi-abhinand-kp
+* GitHub: https://github.com/Abhinand-kp
