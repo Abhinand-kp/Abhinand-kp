@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Abhinand kp👋
 
-<!--
-**Abhinand-kp/Abhinand-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with skills in SQL, Python, Excel, Power BI, and Tableau.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Excel
+- Power BI
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Sales dashboard in Excel
+- Adidas sales dashboard in Tableau
+- Power BI business dashboard
+- Machine learning project
+
+I’m actively building data analytics projects and improving my analytical skills.
